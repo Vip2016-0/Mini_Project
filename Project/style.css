@@ -1,0 +1,38 @@
+.team img:hover{
+    border: 4px solid gray;
+    border-radius:10px;
+}
+
+.card:hover{
+     border: 4px solid gray;
+    border-radius:10px;
+}
+
+.carousel-item{
+    height: 640px;
+}
+
+.carousel-picture-1{
+    background: url(images/Taj.jpg);
+    background-size: cover;
+}
+
+.carousel-picture-2{
+    background: url(images/Bikaner.jpg);
+    background-size: cover;
+}
+
+.carousel-picture-3{
+    background: url(images/Gangtok.jpg);
+    background-size: cover;
+}
+
+.carousel-picture-4{
+    background: url(images/kanha_national_park.jpg);
+    background-size: cover;
+}
+
+.carousel-picture-5{
+    background: url(images/ranakpur_temple.jpg);
+    background-size: cover;
+}
